@@ -1,0 +1,2 @@
+# Express Deep Learning Virtualization
+Implementing deep learning in Rust using just a linear algebra library ([nalgebra](https://nalgebra.org/)). The neural network (4 hidden layers, 32 neurons per layer) attempts to reconstruct a 512x512 image. 
